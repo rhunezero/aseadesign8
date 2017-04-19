@@ -1,0 +1,13 @@
+
+mysql
+root
+blank
+ASEA DRUPAL 8
+
+DB:asea_aseadb
+DB USERNAME: akoangadmin
+DB PASSWORD: "8RGfC4-+q2}_Mz
+
+SITE
+USERNAME: aseaadmin
+PASSWORD: Asea04172017!
